@@ -8,3 +8,5 @@ We are a research group based at the Nanyang Technological University of Singapo
 in.Q officially stands for information & quantum.
 It also stands for the spirit of scientific "inquiry", which is the curious wonder as we go about understanding the world.
 Group members are called the inQlings, reminiscent of a literary group that gave us writers like Tolkien and Lewis. 
+
+Website construction in progress. 
