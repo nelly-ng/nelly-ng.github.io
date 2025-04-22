@@ -3,7 +3,3 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "The inQlings" # the name of your site, e.g. ACME Corp.
 description: "the spirit of scientific inquiry"
 
-social:
-  arxiv:
-    url: https://arxiv.org/a/your-arxiv-id
-    icon: fas fa-book
