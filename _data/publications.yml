@@ -1,7 +1,9 @@
 featured:
-- {name: ' Double-bracket algorithm for quantum signal processing without post-selection'}
+- {name: 'Double-bracket algorithm for quantum signal processing without post-selection'}
 - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible'}
 
 index:
+- {name: 'Double-bracket algorithm for quantum signal processing without post-selection'}
+- {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible'}
 - {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy'}
-- {name: ' Double-bracket quantum algorithms for quantum imaginary-time evolution '}
+- {name: 'Double-bracket quantum algorithms for quantum imaginary-time evolution '}
