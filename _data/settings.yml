@@ -14,9 +14,12 @@ people:
 - {name: 'Jeongrak Son', title: 'Graduate student', url: 'graduate-student'}
 - {name: 'Taufiq Murtadho', title: 'Graduate student', url: 'graduate-student'}
 - {name: 'Kaiwei Qiu', title: 'Graduate student', url: 'graduate-student'}
+- {name: 'Joseph Goo', title: 'Project Officer', url: 'project-officer'}
+- {name: 'Khanh Uyen Giang', title: 'Project Officer', url: 'project-officer'}
 
-- {name: 'Seok Hyung Lie', title: 'Alumni, now Asst. Prof. at UNIST, South Korea', url: 'alumni'}
-- {name: 'Yu Cai', title: 'Alumni, now Quantum Communications Specialist at HSBC', url: 'alumni'}
+- {name: 'Seok Hyung Lie, Alumni, now Asst. Prof. at UNIST, South Korea', title: 'Alumni', url: 'alumni'}
+- {name: 'Yu Cai, Alumni, now Quantum Communications Specialist at HSBC', url: 'alumni'}
+- {name: 'Khatee Zathul Arifa', title: 'Alumni, now PhD student at University of Wisconsin-Madison', url: 'alumni'}
 
 
 courses:
