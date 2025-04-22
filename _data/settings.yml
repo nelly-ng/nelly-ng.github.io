@@ -1,9 +1,9 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+#- {name: 'courses', url: '/courses'}
+#- {name: ' ', url: '/contact'}
 
 people:
 - {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor', url: 'primary-investigator'}
