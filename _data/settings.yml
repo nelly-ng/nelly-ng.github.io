@@ -15,8 +15,8 @@ people:
 - {name: 'Taufiq Murtadho', title: 'Graduate student', url: 'graduate-student'}
 - {name: 'Kaiwei Qiu', title: 'Graduate student', url: 'graduate-student'}
 
-- {name: 'Seok Hyung Lie', title: 'Alumni, now Asst. Prof. at UNIST, South Korea', url: 'research-fellow'}
-- {name: 'Yu Cai', title: 'Alumni, now Quantum Communications Specialist at HSBC', url: 'research-fellow'}
+- {name: 'Seok Hyung Lie', title: 'Alumni, now Asst. Prof. at UNIST, South Korea', url: 'alumni'}
+- {name: 'Yu Cai', title: 'Alumni, now Quantum Communications Specialist at HSBC', url: 'alumni'}
 
 
 courses:
