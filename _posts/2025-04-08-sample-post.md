@@ -7,5 +7,7 @@ Our first venture into quantum algorithms explored the possibility of reducing t
 
 Quantum computers have the potential to outperform classical computers but not all classical programming paradigms can be easily adopted in quantum computing. A particular challenge is the use of recursions which involves remembering and reusing intermediate results. This is difficult because storing and reading quantum information is largely at odds with wanting to make use of quantum mechanical evolutions in computations. Our new approach tackles this hurdle by using quantum memories without reading the information stored; instead, we use them quantum-mechanically as instructions for the quantum computer. This allows quantum computers to perform computations of material properties or optimization using a wider array of quantum algorithms. Our approach requires preparing multiple copies of the quantum memory, which means needing larger quantum computers to achieve improved runtimes of recursions. While this presents a trade-off between computation speed and computer size, our technique constitutes a particularly appealing use case for quantum computations involving multiple smaller quantum computers distributed in a network.
 
-https://arxiv.org/abs/2403.09187
+<a href="https://arxiv.org/abs/2403.09187" target="_blank" rel="noopener noreferrer">arXiv link here!</a>
+
+
 
