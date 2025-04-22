@@ -29,7 +29,7 @@ courses:
 
 social:
 - {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=ah2xN3IAAAAJ&hl=en&oi=ao'}
-- {icon: 'arXiv', link: 'https://arxiv.org/search/?query=nelly+ng&searchtype=all&source=header'}
+- {icon: 'arxiv', link: 'https://arxiv.org/search/?query=nelly+ng&searchtype=all&source=header'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/nelly-ng-58074710b/'}
 
 contacts:
