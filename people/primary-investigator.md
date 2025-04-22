@@ -9,3 +9,5 @@ During my PhD, I worked on the subject of Quantum Thermodynamics, where I used q
 
  
 Finally, in November 2020, I return to Nanyang Technological University as a Nanyang Assistant Professor! Problems in quantum information and quantum thermodynamics continue to fascinate me, and I am also increasingly focused on their applications in many-body physics. If you also have a passion for the above areas of research, join me as I start to build my group in Singapore!
+
+Email: nelly.hy.ng@gmail.com
