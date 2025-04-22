@@ -3,7 +3,6 @@ featured:
 - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible'}
 
 index:
-- {name: 'this section is work in progress'}
 - {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077'}
 - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible', url: 'https://arxiv.org/abs/2412.06900'}
 - {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319'}
