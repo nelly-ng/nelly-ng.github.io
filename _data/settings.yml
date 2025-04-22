@@ -6,9 +6,18 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Nelly Ng Huei Ying', title: 'Primary Investigator', email: 'nelly.hy.ng@gmail.com', url: 'primary-investigator'}
+#- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Marek Gluza', title: 'Research Fellow', url: 'research-fellow'}
+- {name: 'Ray Ganardi', title: 'Research Fellow', url: 'research-fellow'}
+- {name: 'Jakub Czartowski', title: 'Research Fellow', url: 'research-fellow'}
+- {name: 'Jeongrak Son', title: 'Graduate student', url: 'graduate-student'}
+- {name: 'Taufiq Murtadho', title: 'Graduate student', url: 'graduate-student'}
+- {name: 'Kaiwei Qiu', title: 'Graduate student', url: 'graduate-student'}
+
+- {name: 'Seok Hyung Lie', title: 'Alumni, now Asst. Prof. at UNIST, South Korea', url: 'research-fellow'}
+- {name: 'Yu Cai', title: 'Alumni, now Quantum Communications Specialist at HSBC', url: 'research-fellow'}
+
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
