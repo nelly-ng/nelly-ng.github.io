@@ -1,109 +1,83 @@
-# Jekyll Academic
+# academic
 
-![Gem](https://img.shields.io/gem/v/jekyll-academic?color=orange&style=plastic)
-![Gem](https://img.shields.io/gem/dt/jekyll-academic?color=blue&style=plastic)
+### A Jekyll theme for academia
 
-Jekyll Academic is a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia. It is a simple no nonsense theme that offers many features.
+![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
 
-[Live preview](https://jekyll-academic.netlify.app)
+A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
 
-- Ultra-fast serving times, only ~2.6kb of CSS
-- 99/100 Performance on Lighthouse
-- 100/100 SEO on Lighthouse
-- RSS and JSON feed
-- Enhanced Markdown (Highlightjs, MathJax, ChartJs, FontAwesome/Bootstrap Icons)
-- Optional Disqus comments
-- Search bar with blog categorisation based on tags
-- Custom 404 page
-- SEO optimised (robots.txt, sitemap.xml, jekyll-seo-tag)
+* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
 
-## Contents
-- [Jekyll Academic](#jekyll-academic)
-  - [Contents](#contents)
-  - [Installation](#installation)
-    - [Quick install](#quick-install)
-    - [Longer installation process](#longer-installation-process)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+* Manage courses that you are teaching.
+
+* Provide updates to your students and faulty.
+
+For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
+
+If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
 
 ## Installation
 
-### Quick install
+### Ruby Gem Method
 
-```shell
-$ curl -s -L https://raw.githubusercontent.com/yak-fumblepack/jekyll-academic/master/scripts/bundle-install.sh | bash
-```
-
-### Longer installation process
-
-Add this to your Jekyll site's Gemfile:
+Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "jekyll-academic"
+gem "academic-jekyll-theme"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: jekyll-academic
+theme: academic-jekyll-theme
 ```
 
-Then execute:
+And then execute:
 
-```shell
-$ bundle install
-```
+    $ bundle
 
-or install it yourself as a Gem:
+Or install it yourself as:
 
-```shell
-$ gem install jekyll-academic
-```
-
-OR 
-
-```shell
-$ git clone https://github.com/yak-fumblepack/jekyll-academic.git
-```
-
-```shell
-$ bundle install
-```
-
-Then finally to view your site (default is [localhost:4000]()):
-
-```shell
-$ bundle exec jekyll serve
-```
+    $ gem install academic-jekyll-theme
 
 ## Usage
 
-To make it yours, edit the `_config.yml` file or refer to our [docs](https://jekyll-academic.netlify.app/docs) for further configuration.
+### Layouts
 
-Have fun building your amazing site!
+The following sections describe usage instructions for this Jekyll theme,including available layouts, includes, sass and/or assets.
+
+#### Home
+
+The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
+
+#### People
+
+The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
+
+#### Publications
+
+The `_layouts/publications.html` layout can be used to showcase selected publications, or the entire catalogue of publications. Direct links to the paper can be used, or a PDF copy of the paper can be served. Publications are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
+
+#### Courses
+
+The `_layouts/courses.html` layout can be used to showcase courses that were taught in the past or are currently being taught. Courses are defined in the `_data/settings.yml` file, and markdown pages for each course with the `_layouts/page.html` layout can be placed in the `courses` directory. Related course material, such as PDF files, can also be placed in the `courses` directory in a subdirectory with the same name as the corresponding course.
+
+#### CV
+
+The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
+
+#### Contact
+
+The `_layouts/contact.html` layout can be used to provide contact information for the research group or the people that lead the research group. Contact information is defined in the `_data/settings.yml` file.
 
 ## Contributing
 
-Bugfixes and features are most welcome and appreciated. For features and bugfixes, please make the pull request onto the `dev` branch. If you're looking to improve the documentation, make the pull request onto `docs-pages`.
+Bug reports and pull requests are welcome on GitHub at https://github.com/LeNPaul/academic. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-Is there a bug? Feel free to open an issue.
+## Development
 
-## Development 
-
-Fork this repo
-
-```shell
-$ git clone https://github.com/yak-fumblepack/jekyll-academic.git/
-$ cd jekyll-academic/
-$ bundle install
-$ bundle exec jekyll serve
-```
-
-And view it on [localhost:4000]()
-
-Then make your amazing contributions and changes!
+To set up your environment to develop this theme, run `bundle install`, then run `bundle exec jekyll serve`, and open your browser at `http://localhost:4000`. This starts a Jekyll server using this theme. Make changes to the pages, documents, data, etc. like normal to test this theme's contents. As you make modifications to this theme the site will regenerate and you should see the changes in the browser after a refresh.
 
 ## License
 
-This project is licensed under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](https://github.com/yak-fumblepack/jekyll-academic/blob/master/LICENSE.txt) file for more details.
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
