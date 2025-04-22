@@ -9,6 +9,10 @@ $heading2Size: 3rem;
 $heading3Size: 1.5rem;
 $paragraphFontSize: 1.125rem;
 
+.site-title {
+    font-size: 36px; /* Change this value to your desired font size */
+}
+
 /* Base styles */
 body {
   background: $backgroundColor;
