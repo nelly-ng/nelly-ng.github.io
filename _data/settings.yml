@@ -8,14 +8,14 @@ menu:
 people:
 - {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor', url: 'primary-investigator'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Marek Gluza', title: 'Research Fellow', url: 'research-fellow'}
-- {name: 'Ray Ganardi', title: 'Research Fellow', url: 'research-fellow'}
-- {name: 'Jakub Czartowski', title: 'Research Fellow', url: 'research-fellow'}
-- {name: 'Jeongrak Son', title: 'Graduate student', url: 'graduate-student'}
-- {name: 'Taufiq Murtadho', title: 'Graduate student', url: 'graduate-student'}
-- {name: 'Kaiwei Qiu', title: 'Graduate student', url: 'graduate-student'}
-- {name: 'Joseph Goo', title: 'Project Officer', url: 'project-officer'}
-- {name: 'Khanh Uyen Giang', title: 'Project Officer', url: 'project-officer'}
+- {name: 'Marek Gluza, Research Fellow', url: 'research-fellow'}
+- {name: 'Ray Ganardi, Research Fellow', url: 'research-fellow'}
+- {name: 'Jakub Czartowski, Research Fellow', url: 'research-fellow'}
+- {name: 'Jeongrak Son, Graduate student', url: 'graduate-student'}
+- {name: 'Taufiq Murtadho, Graduate student', url: 'graduate-student'}
+- {name: 'Kaiwei Qiu, Graduate student', url: 'graduate-student'}
+- {name: 'Joseph Goo, Project Officer', url: 'project-officer'}
+- {name: 'Khanh Uyen Giang, Project Officer', url: 'project-officer'}
 
 - {name: 'Seok Hyung Lie, Alumni, now Asst. Prof. at UNIST, South Korea', title: 'Alumni', url: 'alumni'}
 - {name: 'Yu Cai, Alumni, now Quantum Communications Specialist at HSBC', url: 'alumni'}
