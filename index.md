@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-We are a research group based at the Nanyang Technological University of Singapore. Our research interests lie in the intersection of information theory and quantum physics, with a main focus on the fundamental limits of manipulating quantum resources. Our research is motivated by foundational questions in quantum thermodynamics, quantum measurements, and resource theories. We are especially interested in how coherence, catalysis, and irreversibility emerge in quantum systems, and occasionally we discover how our work can be useful for quantum information-processing tasks ;) Our central aim, however, lies in the systematic development of rigorous frameworks and entropic tools—often within, but not limited to, the setting of quantum resource theories.
+We are a research group based at the Nanyang Technological University of Singapore. Our research interests lie in the intersection of information theory and quantum physics, with a main focus on fundamental limits of manipulating quantum resources. We are motivated by foundational questions in quantum thermodynamics, measurements, and resource theories; with a focus on coherence, catalysis, and irreversibility. Occasionally we discover how our work can be useful for quantum information-processing tasks ;) Our central aim, however, lies in the systematic development of rigorous frameworks and entropic tools—often within, but not limited to, the setting of quantum resource theories.
 
 in.Q officially stands for information & quantum.
 It also stands for the spirit of scientific "inquiry", which is the curious wonder as we go about understanding the world.
