@@ -1,0 +1,8 @@
+- image: "assets/images/gallery/team-photo.jpg"
+  caption: "Our research team at the latest conference."
+  
+- image: "assets/images/gallery/circuit.png"
+  caption: "A diagram of our quantum circuit design."
+  
+- image: "assets/images/gallery/lab.jpg"
+  caption: "Inside the lab during a critical experiment."
