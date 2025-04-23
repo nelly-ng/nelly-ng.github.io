@@ -3,18 +3,18 @@ featured:
 - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible'}
 
 index:
-- {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077'}
-- {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible', url: 'https://arxiv.org/abs/2412.06900'}
-- {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319'}
-- {name: 'Double-bracket quantum algorithms for quantum imaginary-time evolution', url: 'https://arxiv.org/abs/2412.04554'}
-- {name: 'Quantum Dynamic Programming', url: 'https://arxiv.org/abs/2403.09187'}
-- {name: 'Systematic analysis of relative phase extraction in one-dimensional Bose gases interferometry', url: 'https://arxiv.org/abs/2403.05528'}
-- {name: 'Second Law of Entanglement Manipulation with Entanglement Battery', url: 'https://arxiv.org/abs/2405.10599'}
-- {name: 'Catalysis in Quantum Information Theory', url: 'https://arxiv.org/abs/2306.00798'}
-- {name: 'Uniqueness of quantum state over time function', url: 'https://arxiv.org/abs/2308.12752'}
-- {name: 'A hierarchy of thermal processes collapses under catalysis', url: 'https://arxiv.org/abs/2303.13020'}
-- {name: 'Catalysis in Action via Elementary Thermal Operations', url: 'https://arxiv.org/abs/2209.15213'}
-- {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319'}
-- {name: 'Resource theory of quantum thermodynamics: Thermal operations and Second Laws', url: 'https://arxiv.org/abs/1805.09564'}
-- {name: 'Limits to catalysis in quantum thermodynamics', url: 'https://arxiv.org/abs/1405.3039'}
-- {name: 'The second laws of quantum thermodynamics', url: 'https://arxiv.org/abs/1305.5278'}
+  - {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077', year: 2025}
+  - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible', url: 'https://arxiv.org/abs/2412.06900', year: 2024}
+  - {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319', year: 2025}
+  - {name: 'Double-bracket quantum algorithms for quantum imaginary-time evolution', url: 'https://arxiv.org/abs/2412.04554', year: 2024}
+  - {name: 'Quantum Dynamic Programming', url: 'https://arxiv.org/abs/2403.09187', year: 2024}
+  - {name: 'Systematic analysis of relative phase extraction in one-dimensional Bose gases interferometry', url: 'https://arxiv.org/abs/2403.05528', year: 2024}
+  - {name: 'Second Law of Entanglement Manipulation with Entanglement Battery', url: 'https://arxiv.org/abs/2405.10599', year: 2024}
+  - {name: 'Catalysis in Quantum Information Theory', url: 'https://arxiv.org/abs/2306.00798', year: 2023}
+  - {name: 'Uniqueness of quantum state over time function', url: 'https://arxiv.org/abs/2308.12752', year: 2023}
+  - {name: 'A hierarchy of thermal processes collapses under catalysis', url: 'https://arxiv.org/abs/2303.13020', year: 2023}
+  - {name: 'Catalysis in Action via Elementary Thermal Operations', url: 'https://arxiv.org/abs/2209.15213', year: 2022}
+  - {name: 'Resource theory of quantum thermodynamics: Thermal operations and Second Laws', url: 'https://arxiv.org/abs/1805.09564', year: 2018}
+  - {name: 'Limits to catalysis in quantum thermodynamics', url: 'https://arxiv.org/abs/1405.3039', year: 2014}
+  - {name: 'The second laws of quantum thermodynamics', url: 'https://arxiv.org/abs/1305.5278', year: 2013}
+
