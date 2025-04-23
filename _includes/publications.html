@@ -1,13 +1,22 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% assign sorted_pubs = site.data.publications.index | sort: "year" | reverse %}
+      {% assign years = sorted_pubs | map: "year" | uniq %}
+
+      {% for y in years %}
+        <h4 class="mt-4">{{ y }}</h4>
+        {% for item in sorted_pubs %}
+          {% if item.year == y %}
+            <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+          {% endif %}
+        {% endfor %}
       {% endfor %}
     {% endif %}
   </div>
