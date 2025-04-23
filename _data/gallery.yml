@@ -1,8 +1,15 @@
-- image: "assets/images/gallery/team-photo.jpg"
-  caption: "Our research team at the latest conference."
+- image: "assets/images/gallery/qdp.jpeg"
+  caption: "Jeongrak presenting at Quantum Resources in Jeju, March 2025."
+
+- image: "assets/images/gallery/bintan.jpeg"
+  caption: "in.Q at its very first overseas group retreat at Bintan island, Dec 2024."
   
-- image: "assets/images/gallery/circuit.png"
-  caption: "A diagram of our quantum circuit design."
+- image: "assets/images/gallery/coldatoms.jpeg"
+  caption: "The ultracold people, Dec 2024."
+
+- image: "assets/images/gallery/mischa.jpeg"
+  caption: "Mischa Woods, an old friend visits us in Singapore, Nov 2024."
   
-- image: "assets/images/gallery/lab.jpg"
-  caption: "Inside the lab during a critical experiment."
+- image: "assets/images/gallery/catalystfanclub.png"
+  caption: "The catalyst fan club writing our review in Hannover, July 2022."
+  
