@@ -11,14 +11,17 @@ people:
 - {name: 'Marek Gluza, Research Fellow', url: 'research-fellow'}
 - {name: 'Ray Ganardi, Research Fellow', url: 'research-fellow'}
 - {name: 'Jakub Czartowski, Research Fellow', url: 'research-fellow'}
-- {name: 'Jeongrak Son, Graduate Student', url: 'graduate-student'}
-- {name: 'Taufiq Murtadho, Graduate Student', url: 'graduate-student'}
-- {name: 'Kaiwei Qiu, Graduate Student', url: 'graduate-student'}
+- {name: 'Jeongrak Son, PhD Student', url: 'graduate-student'}
+- {name: 'Taufiq Murtadho, PhD Student', url: 'graduate-student'}
+- {name: 'Kaiwei Qiu, PhD Student', url: 'graduate-student'}
+- {name: 'Zi Yao Lim, PhD Student (co-supervised by Dr. Koh Teck Seng)', url: 'graduate-student'}
+- {name: 'Rebecca Chung, Masters Student', url: 'graduate-student'}
 - {name: 'Joseph Goo, Project Officer', url: 'project-officer'}
-- {name: 'Khanh Uyen Giang, Project Officer', url: 'project-officer'}
-
+- {name: 'Khanh Uyen Giang (Kay), Project Officer', url: 'project-officer'}
+- {name: 'Xiaoyue Li (Samantha), Project Officer', url: 'project-officer'}
 - {name: 'Seok Hyung Lie, Alumni, now Asst. Prof. at UNIST, South Korea', title: 'Alumni', url: 'alumni'}
 - {name: 'Yu Cai, Alumni, now Quantum Communications Specialist at HSBC', url: 'alumni'}
+- {name: 'Maria Quadeer, Alumni, now research fellow at OIST, Japan', title: 'Alumni', url: 'alumni'}
 - {name: 'Khatee Zathul Arifa, now PhD student at University of Wisconsin-Madison', title: 'Alumni, now PhD student at University of Wisconsin-Madison', url: 'alumni'}
 
 
