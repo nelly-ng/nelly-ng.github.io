@@ -8,12 +8,12 @@ menu:
 people:
 - {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor, CQT Fellow', url: 'primary-investigator'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Marek Gluza, Research Fellow', url: 'research-fellow'}
+- {name: 'Marek Gluza, Research Fellow, Recipient of Presidential Postdoctoral Fellowship 2022-2024', url: 'research-fellow'}
 - {name: 'Ray Ganardi, Research Fellow', url: 'research-fellow'}
 - {name: 'Jakub Czartowski, Research Fellow', url: 'research-fellow'}
-- {name: 'Jeongrak Son, PhD Student', url: 'graduate-student'}
-- {name: 'Taufiq Murtadho, PhD Student', url: 'graduate-student'}
-- {name: 'Kaiwei Qiu, PhD Student', url: 'graduate-student'}
+- {name: 'Jeongrak Son, PhD Student, SINGA scholarship holder', url: 'graduate-student'}
+- {name: 'Taufiq Murtadho, PhD Student, Provost scholarship holder', url: 'graduate-student'}
+- {name: 'Kaiwei Qiu, PhD Student, NPGS scholarship holder', url: 'graduate-student'}
 - {name: 'Zi Yao Lim, PhD Student (co-supervised by Dr. Koh Teck Seng)', url: 'graduate-student'}
 - {name: 'Rebecca Chung, Masters Student', url: 'graduate-student'}
 - {name: 'Tiang Bi Hong, Project Officer', url: 'project-officer'}
