@@ -1,18 +1,5 @@
-<section id="publications">
-  <h2>Publications</h2>
-  {% assign years = site.data.publications.index | sort_natural: "first" | reverse %}
-  {% for year in years %}
-    <h3>{{ year[0] }}</h3>
-    <ul>
-      {% for pub in year[1] %}
-        <li>
-          {% if pub.url %}
-            <a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.name }}</a>
-          {% else %}
-            {{ pub.name }}
-          {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-</section>
+--- layout: default --- 
+
+{{ content }} 
+
+{% include publications.html %} 
