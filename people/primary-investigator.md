@@ -11,6 +11,6 @@ After my PhD, and a short-term visit in the ANU Quantum Optics group; I moved to
 
 In November 2020, I returned to Nanyang Technological University as a Nanyang Assistant Professor. Problems in quantum information and quantum thermodynamics continue to fascinate me. Even after a decade of venturing in quantum resource theories, I'm often humbled and inspired by how much I have still to learn. 
 
-Fun (but rather predictable) fact: heavy coffee addict ;)
+Fun facts: Heavy coffee addict. Reads all sorts of books. Ideal weekends involving book, sofa and cat.
 
 Email: nelly.hy.ng@gmail.com
