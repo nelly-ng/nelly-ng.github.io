@@ -19,10 +19,11 @@ people:
 - {name: 'Joseph Goo, Project Officer', url: 'project-officer'}
 - {name: 'Khanh Uyen Giang (Kay), Project Officer', url: 'project-officer'}
 - {name: 'Xiaoyue Li (Samantha), Project Officer', url: 'project-officer'}
-- {name: 'Seok Hyung Lie, Alumni, now Asst. Prof. at UNIST, South Korea', title: 'Alumni', url: 'alumni'}
-- {name: 'Yu Cai, Alumni, now Quantum Communications Specialist at HSBC', url: 'alumni'}
-- {name: 'Maria Quadeer, Alumni, now research fellow at OIST, Japan', title: 'Alumni', url: 'alumni'}
-- {name: 'Khatee Zathul Arifa, now PhD student at University of Wisconsin-Madison', title: 'Alumni, now PhD student at University of Wisconsin-Madison', url: 'alumni'}
+- {name: 'Seok Hyung Lie, Alumni (research fellow), now Asst. Prof. at UNIST, South Korea', title: 'Alumni', url: 'alumni'}
+- {name: 'Yu Cai, Alumni (research fellow), now Quantum Communications Specialist at HSBC', url: 'alumni'}
+- {name: 'Maria Quadeer (research fellow), Alumni, now research fellow at OIST, Japan', title: 'Alumni', url: 'alumni'}
+- {name: 'Khatee Zathul Arifa, Alumni (project officer), now PhD student at University of Wisconsin-Madison', title: 'Alumni, now PhD student at University of Wisconsin-Madison', url: 'alumni'}
+- {name: 'Junwoo Jung, Alumni (intern), now student at Seoul National University, South Korea', title: 'Alumni, now PhD student at University of Wisconsin-Madison', url: 'alumni'}
 
 
 courses:
