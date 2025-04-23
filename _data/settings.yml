@@ -2,6 +2,7 @@ menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
+- {name: 'in.Q gallery', url: '/gallery'}
 #- {name: 'courses', url: '/courses'}
 #- {name: ' ', url: '/contact'}
 
