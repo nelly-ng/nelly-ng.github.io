@@ -8,11 +8,12 @@ permalink: /gallery/
   <h1 class="fw-bold mb-4 border-bottom pb-2">Gallery</h1>
 
   <div class="row g-4">
-    <div class="col-12 col-sm-6 col-md-4">
-      <img src="https://via.placeholder.com/400x250" alt="Research Diagram" class="gallery-image">
-      <p class="gallery-caption">Research Diagram – Quantum Circuit (2025)</p>
-    </div>
-    <!-- More images... -->
+    {% for item in site.data.gallery %}
+      <div class="col-12 col-sm-6 col-md-4">
+        <img src="{{ item.image }}" alt="{{ item.image | split: '/' | last }}" class="gallery-image">
+        <p class="gallery-caption">{{ item.caption }}</p>
+      </div>
+    {% endfor %}
   </div>
 </div>
 
