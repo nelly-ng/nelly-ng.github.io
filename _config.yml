@@ -3,3 +3,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "The inQlings" # the name of your site, e.g. ACME Corp.
 description: "advocating the spirit of scientific inquiry"
 
+plugins:
+  - jekyll-sitemap
