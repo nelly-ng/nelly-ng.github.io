@@ -1,0 +1,1 @@
+Bi Hong was a physics and math undergrad at Nanyang Technological University. Within the inQ epsilon-neighbourhood, He is working with Jeongrak and Marek on quantum algorithm, and with Taufiq on 1D Bose–Einstein condensate quantum simulator. When not chasing quantum curiosities, he enjoys playing Go and Sudoku—because even Schrödinger’s cat needs a  purr-fect break :)
