@@ -6,7 +6,7 @@ menu:
 #- {name: ' ', url: '/contact'}
 
 people:
-- {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor', url: 'primary-investigator'}
+- {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor, CQT Fellow', url: 'primary-investigator'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Marek Gluza, Research Fellow', url: 'research-fellow'}
 - {name: 'Ray Ganardi, Research Fellow', url: 'research-fellow'}
