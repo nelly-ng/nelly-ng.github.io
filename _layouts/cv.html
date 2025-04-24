@@ -1,33 +1,33 @@
 ---
 layout: default
+title: "CV"
+permalink: /cv/
 ---
 
-{{ content }}
+<div class="container">
+  <h3 class="fw-bold border-bottom pb-2 mb-4">Curriculum Vitae</h3>
+  <p>
+    <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank" class="btn btn-outline-primary">
+      Download Full CV (PDF)
+    </a>
+  </p>
 
-<div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Education</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Academic Experience</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.academic-experience %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
+  <h3 class="fw-bold border-bottom pb-2 mt-5 mb-4">PhD Thesis</h3>
+  <p>
+    <a href="{{ '/assets/dissertation.pdf' | relative_url }}" target="_blank" class="btn btn-outline-secondary">
+      Download Thesis (PDF)
+    </a>
+  </p>
+
+  <h3 class="fw-bold border-bottom pb-2 mt-5 mb-4">Talks</h3>
+  <ul>
+    {% assign talks = site.static_files | where_exp:"file", "file.path contains 'assets/files/talks'" %}
+    {% for talk in talks %}
+      <li>
+        <a href="{{ talk.path | relative_url }}" target="_blank">
+          {{ talk.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
