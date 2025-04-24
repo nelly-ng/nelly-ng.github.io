@@ -8,7 +8,7 @@ I'm a Project Officer at Nanyang Technological University (NTU), working at the 
 
 Outside the lab, I enjoy baking, watercolour painting, and clay pottery. I'm always eager to learn something new — lately, that’s been German and ice-skating.
 
-** Xiaoyue Li (Sam) **
+**Xiaoyue Li (Sam)**
 
 I arrived in Singapore in 2018, completely unaware of my academic inclinations. Amid that uncertainty, I began my undergraduate studies in Engineering Science and Mathematics at the National University of Singapore. It wasn’t until my final-year project with Prof. Steven Touzard at the Centre for Quantum Technologies that I discovered a fascination with quantum information and quantum optics.
 
