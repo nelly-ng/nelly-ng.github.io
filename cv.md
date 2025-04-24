@@ -1,4 +1,4 @@
 ---
-layout: Nelly's CV
+layout: CV
 title: "Nelly's CV"
 ---
