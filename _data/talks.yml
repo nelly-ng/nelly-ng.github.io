@@ -10,4 +10,14 @@
     description: "Online Seminar, University of Bristol"
     file: "QDP.pdf"
 
+- title: "Thermodynamics in a Quantum World"
+    date: "November 5, 2024"
+    description: "Online Seminar, King's College London"
+    file: "1125KCL.pdf"
+
+2023:
+  - title: "Catalysis in Quantum Information Theory"
+    date: "25 September , 2023"
+    description: "Institute of Physics Singapore annual Meeting, Singapore"
+    file: "0923IPS.pdf"
 #  link: "https://example.com/conference-talk"
