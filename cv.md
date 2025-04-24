@@ -1,4 +1,5 @@
 ---
-layout: CV
-title: "Nelly's CV"
+layout: default
+title: CV
+permalink: /cv/
 ---
