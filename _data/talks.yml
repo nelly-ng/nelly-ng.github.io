@@ -1,8 +1,13 @@
-- title: "Robust Catalysis and Resource Broadcasting: the possible and the impossible"
-  date: "2025-03-17"
-  file: "RC.pdf"
+2025:
+  - title: "Robust Catalysis and Resource Broadcasting: the possible and the impossible"
+    date: "March 17, 2025"
+    description: "Quantum Resources, Invited Talk"
+    file: "RC.pdf"
 
-- title: "Quantum Dynamic Programming"
-  date: "2024-10-16"
-  file: "QDP.pdf"
+2024:
+  - title: "Quantum Dynamic Programming"
+    date: "October 16, 2024"
+    description: "Online Seminar, University of Bristol"
+    file: "QDP.pdf"
+
 #  link: "https://example.com/conference-talk"
