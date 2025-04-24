@@ -14,14 +14,20 @@
   </p>
 
   <h3 class="fw-bold border-bottom pb-2 mt-5 mb-4">Talks</h3>
-  <ul>
-    {% assign talks = site.static_files | where_exp:"file", "file.path contains 'assets/talks'" %}
-    {% for talk in talks %}
-      <li>
-        <a href="{{ talk.path | relative_url }}" target="_blank">
-          {{ talk.name }}
-        </a>
-      </li>
+  <div>
+    {% for year in site.data.talks %}
+      <h5 class="mt-4">{{ year[0] }}</h5>
+      <ul>
+        {% for talk in year[1] %}
+          <li>
+            <strong>{{ talk.title }}</strong><br>
+            <span>{{ talk.date }}</span>{% if talk.description %} — <em>{{ talk.description }}</em>{% endif %}<br>
+            {% if talk.file %}
+              <a href="{{ '/assets/talks/' | append: talk.file | relative_url }}" target="_blank">Download Talk (PDF)</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
     {% endfor %}
-  </ul>
+  </div>
 </div>
