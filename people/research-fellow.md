@@ -13,3 +13,4 @@ Hi, my name is Ray, and I like resource theories. I also like coffee too :D [web
 
 **Jakub Czartowski**
 
+Born in Gdańsk, Polish city of lions, I moved to Kraków, where I spent my university years at Jagiellonian University, obtaining BSc, MSc and PhD under supervision of prof. Karol Życzkowski. In Singapore, the Lion State, I pursue research of quantum thermodynamics, resource theories, designs in quantum mechanics and whatever topic I can contribute to. Privately, a photographer, a runner and aficionado of Japanese and Far East culture.
