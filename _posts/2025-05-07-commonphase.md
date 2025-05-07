@@ -4,7 +4,7 @@ title: "We can now reconstruct the common phase in quantum field simulators!"
 ---
 
 <div style="float: left; margin-right: 20px;">
-<img src="/assets/img/cp.jpg" alt="Banner" style="width:20%;" />
+<img src="/assets/img/cp.jpg" alt="Banner" style="width:50%;" />
 </div>
 
 <p>
