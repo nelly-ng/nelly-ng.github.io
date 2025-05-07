@@ -3,17 +3,17 @@ featured:
 - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible'}
 
 index:
-  - {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077', year: 2025}
   - {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319', year: 2025}
-  - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible', url: 'https://arxiv.org/abs/2412.06900', year: 2024}
-  - {name: 'Double-bracket quantum algorithms for quantum imaginary-time evolution', url: 'https://arxiv.org/abs/2412.04554', year: 2024}
-  - {name: 'Quantum-Secured Data Centre Interconnect in a field environment', url: 'https://arxiv.org/abs/2410.10245', year: 2024}
-  - {name: 'Double-bracket quantum algorithms for high-fidelity ground state preparation', url: 'https://arxiv.org/abs/2408.03987', year: 2024}
-  - {name: 'Measurement of total phase fluctuation in cold-atomic quantum simulators', url: 'https://arxiv.org/abs/2408.03736', year: 2024}
-  - {name: 'Second Law of Entanglement Manipulation with Entanglement Battery', url: 'https://arxiv.org/abs/2405.10599', year: 2024}
-  - {name: 'Quantum Dynamic Programming', url: 'https://arxiv.org/abs/2403.09187', year: 2024}
+  - {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077', year: 2025}
   - {name: 'Systematic analysis of relative phase extraction in one-dimensional Bose gases interferometry', url: 'https://arxiv.org/abs/2403.05528', year: 2024}
   - {name: 'Entanglement generation from athermality', url: 'https://arxiv.org/abs/2403.04842', year: 2024}
+  - {name: 'Quantum Dynamic Programming', url: 'https://arxiv.org/abs/2403.09187', year: 2024}
+  - {name: 'Second Law of Entanglement Manipulation with Entanglement Battery', url: 'https://arxiv.org/abs/2405.10599', year: 2024}
+  - {name: 'Measurement of total phase fluctuation in cold-atomic quantum simulators', url: 'https://arxiv.org/abs/2408.03736', year: 2024}
+  - {name: 'Double-bracket quantum algorithms for high-fidelity ground state preparation', url: 'https://arxiv.org/abs/2408.03987', year: 2024}
+  - {name: 'Quantum-Secured Data Centre Interconnect in a field environment', url: 'https://arxiv.org/abs/2410.10245', year: 2024}
+  - {name: 'Double-bracket quantum algorithms for quantum imaginary-time evolution', url: 'https://arxiv.org/abs/2412.04554', year: 2024}
+  - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible', url: 'https://arxiv.org/abs/2412.06900', year: 2024}
   - {name: 'Uniqueness of quantum state over time function', url: 'https://arxiv.org/abs/2308.12752', year: 2023}
   - {name: 'Catalysis in Quantum Information Theory', url: 'https://arxiv.org/abs/2306.00798', year: 2023}
   - {name: 'A hierarchy of thermal processes collapses under catalysis', url: 'https://arxiv.org/abs/2303.13020', year: 2023}
