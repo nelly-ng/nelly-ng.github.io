@@ -3,9 +3,8 @@ layout: post
 title: "We can now reconstruct the common phase in quantum field simulators!"
 ---
 
-<div style="float: left; margin-right: 20px;">
-<img src="/assets/img/cp.jpg" alt="Banner" style="width:50%;" />
-</div>
+
+<img src="/assets/img/cp.jpg" alt="Banner" style="width:50%;">
 
 <p>
 During his first project working on understanding the reliability of ToF measurements, Taufiq found himself asking what else can be reconstructed. Can we tease more information out of these snapshots of intefering Bose gases?
