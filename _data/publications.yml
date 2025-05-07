@@ -3,6 +3,21 @@ featured:
 - {name: 'Robust Catalysis and Resource Broadcasting: The Possible and the Impossible'}
 
 index:
+  - {name: 'An Experimental Implementation of Bit Commitment in the Noisy Storage Model', url: 'https://arxiv.org/abs/1205.3331', year: 2012}
+  - {name: ' A min-entropy uncertainty relation for finite size cryptography ', url: 'https://arxiv.org/abs/1205.0842', year : 2012}
+  - {name: 'An Experimental Implementation of Oblivious Transfer in the Noisy Storage Model', url: 'https://arxiv.org/abs/1308.5098', year: 2013}
+  - {name: 'The second laws of quantum thermodynamics', url: 'https://arxiv.org/abs/1305.5278', year: 2013}
+  - {name: 'Maximization of Extractable Randomness in a Quantum Random-Number Generator', url: 'https://arxiv.org/abs/1411.4512', year: 2014}
+  - {name: 'Limits to catalysis in quantum thermodynamics', url: 'https://arxiv.org/abs/1405.3039', year: 2014}
+  - {name: 'Surpassing the Carnot Efficiency by extracting imperfect work', url: 'https://arxiv.org/abs/1606.05532', year: 2016}
+  - {name: 'Smoothed generalized free energies for thermodynamics', url: 'https://arxiv.org/abs/1706.03193', year: 2017}
+  - {name: 'Quantum work statistics and resource theories: bridging the gap through Renyi divergences', url: 'https://arxiv.org/abs/1804.09962', year: 2018}
+  - {name: 'Bounding the resources for thermalizing many-body localized systems', url: 'https://arxiv.org/abs/1912.04920', year: 2019}
+  - {name: 'By-passing fluctuation theorems', url: 'https://arxiv.org/abs/1904.01314', year: 2019}
+  - {name: 'The variance of relative surprisal as single-shot quantifier', url: 'https://arxiv.org/abs/2009.08391', year: 2020}
+  - {name: 'Quantum field thermal machines', url: 'https://arxiv.org/abs/2006.01177', year: 2020}
+  - {name: 'Catalysis in Action via Elementary Thermal Operations', url: 'https://arxiv.org/abs/2209.15213', year: 2022}
+  - {name: 'Transparent reporting of research-related greenhouse gas emissions through the scientific CO$_2$nduct initiative', url: 'https://arxiv.org/abs/2206.00857', year: 2022}
   - {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319', year: 2025}
   - {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077', year: 2025}
   - {name: 'Systematic analysis of relative phase extraction in one-dimensional Bose gases interferometry', url: 'https://arxiv.org/abs/2403.05528', year: 2024}
@@ -18,20 +33,6 @@ index:
   - {name: 'Catalysis in Quantum Information Theory', url: 'https://arxiv.org/abs/2306.00798', year: 2023}
   - {name: 'A hierarchy of thermal processes collapses under catalysis', url: 'https://arxiv.org/abs/2303.13020', year: 2023}
   - {name: 'Catalysis always degrades external quantum correlations', url: 'https://arxiv.org/abs/2303.02376', year: 2023}
-  - {name: 'Catalysis in Action via Elementary Thermal Operations', url: 'https://arxiv.org/abs/2209.15213', year: 2022}
-  - {name: 'Transparent reporting of research-related greenhouse gas emissions through the scientific CO$_2$nduct initiative', url: 'https://arxiv.org/abs/2206.00857', year: 2022}
-  - {name: 'The variance of relative surprisal as single-shot quantifier', url: 'https://arxiv.org/abs/2009.08391', year: 2020}
-  - {name: 'Quantum field thermal machines', url: 'https://arxiv.org/abs/2006.01177', year: 2020}
-  - {name: 'Bounding the resources for thermalizing many-body localized systems', url: 'https://arxiv.org/abs/1912.04920', year: 2019}
-  - {name: 'By-passing fluctuation theorems', url: 'https://arxiv.org/abs/1904.01314', year: 2019}
-  - {name: 'Quantum work statistics and resource theories: bridging the gap through Renyi divergences', url: 'https://arxiv.org/abs/1804.09962', year: 2018}
-  - {name: 'Smoothed generalized free energies for thermodynamics', url: 'https://arxiv.org/abs/1706.03193', year: 2017}
-  - {name: 'Surpassing the Carnot Efficiency by extracting imperfect work', url: 'https://arxiv.org/abs/1606.05532', year: 2016}
-  - {name: 'Maximization of Extractable Randomness in a Quantum Random-Number Generator', url: 'https://arxiv.org/abs/1411.4512', year: 2014}
-  - {name: 'Limits to catalysis in quantum thermodynamics', url: 'https://arxiv.org/abs/1405.3039', year: 2014}
-  - {name: 'An Experimental Implementation of Oblivious Transfer in the Noisy Storage Model', url: 'https://arxiv.org/abs/1308.5098', year: 2013}
-  - {name: 'An Experimental Implementation of Bit Commitment in the Noisy Storage Model', url: 'https://arxiv.org/abs/1205.3331', year: 2012}
-  - {name: ' A min-entropy uncertainty relation for finite size cryptography ', url: 'https://arxiv.org/abs/1205.0842', year : 2012}
-  - {name: 'The second laws of quantum thermodynamics', url: 'https://arxiv.org/abs/1305.5278', year: 2013}
+  
 
 
