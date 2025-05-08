@@ -19,6 +19,8 @@ In this work, we show that we can extract information about the total phase of t
 Why is this important? The total phase information is crucial for studying long-time thermalization and entanglement between the two superfluids. But that’s a story for another day ;) 
 
 Read more about this in our latest publication at <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.L022031">PRR</a>! 
+
+Written by: Taufiq Murtadho
     </p>
   </div>
 </div>
