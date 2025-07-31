@@ -27,5 +27,4 @@ In 2021, while Zooming with Henrik on writing the review on catalysis, he said t
     <p>
         Find out more about the specifics of our results <a href="https://arxiv.org/abs/2507.16637" target="_blank" rel="noopener noreferrer">here</a>! 
     <\p>
-  </div>
-</div>
+  
