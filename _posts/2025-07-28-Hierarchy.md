@@ -17,7 +17,7 @@ In 2021, while Zooming with Henrik on writing the review on catalysis, he said t
     </p>
     <p>
       Then, about three years passed until Jeongrak and I (together with a bunch of comrades) were considering robust 
-      forms of catalysis, and asked outselves if thermal operations exhibit any robust catalytic advantage. For a long time, 
+      forms of catalysis, and asked ourselves if thermal operations exhibit any robust catalytic advantage. For quite some time, 
       we didn't get anywhere. Then something clicked and I started wondering if that property of thermal operations Henrik
       told me about would actually give us a proof for this. Long story short.... turns out that yes! In fact, Jeongrak found
       the proof later independently, and it worked essentially the same as the proof for Henrik's statement. We then got in touch
