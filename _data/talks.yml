@@ -3,6 +3,10 @@
     date: "March 17, 2025"
     description: "Quantum Resources, Invited Talk"
     file: "RC.pdf"
+  - title: "Double-Bracket Quantum Algorithms"
+    date: "July 31, 2025"
+    description: "Korean Institute of Advanced Studies, Seminar"
+    file: "DBQA.pdf"
 
 2024:
   - title: "Quantum Dynamic Programming"
