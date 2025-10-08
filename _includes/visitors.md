@@ -1,11 +1,6 @@
----
-layout: page
-title: "Visitors"
----
-
 **Paul Skrzypcyzk** visited us in Oct 2025
 
-**Hiroyasu Tagima** gave an online seminar in the group in June 2025
+**Hiroyasu Tajima** gave an online seminar in the group in June 2025
 
 **Patryk Lapka-Bartosik, Pharnam Bakhshinezhad, and Nayeli A. Rodríguez Briones** visited us in July 2025
 
