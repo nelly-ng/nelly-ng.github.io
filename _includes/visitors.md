@@ -9,7 +9,7 @@
 <div class="col">
   <div class="card h-100 shadow-sm">
     <div class="card-body">
-      <p class="card-text"><strong>Hiroyasu Tagima</strong> gave an online seminar in the group in June 2025</p>
+      <p class="card-text"><strong>Hiroyasu Tajima</strong> gave an online seminar in the group in June 2025</p>
     </div>
   </div>
 </div>
