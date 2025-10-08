@@ -23,6 +23,10 @@ index:
   - {name: 'A Generalized Numerical Framework for Improved Finite-Sized Key Rates with Renyi Entropy', url: 'https://arxiv.org/abs/2502.02319', year: 2025}
   - {name: 'Double-bracket algorithm for quantum signal processing without post-selection', url: 'https://arxiv.org/abs/2504.01077', year: 2025}
   - {name: 'Fully passive quantum random number generation with untrusted light', url: 'https://arxiv.org/abs/2505.00636', year: 2025}
+  - {name: 'Grover`s algorithm is an approximation of imaginary-time evolution', url: 'https://arxiv.org/abs/2507.15065', year: 2025}
+  - {name: 'Thermal operations from informational equilibrium', url: 'https://arxiv.org/abs/2507.16637', year: 2025}
+  - {name: 'Extensive entanglement between coupled Tomonaga-Luttinger liquids in and out of equilibrium', url: 'https://arxiv.org/abs/2508.20533', year: 2025}
+  - {name: 'Double-Bracket Algorithmic Cooling', url: 'https://arxiv.org/abs/2510.00302', year: 2025}
 
   
 
