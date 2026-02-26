@@ -1,6 +1,14 @@
 <div class="col">
   <div class="card h-100 shadow-sm">
     <div class="card-body">
+      <p class="card-text"><strong>Haruki Emori</strong> visited us in Feb 2026</p>
+    </div>
+  </div>
+</div>
+
+<div class="col">
+  <div class="card h-100 shadow-sm">
+    <div class="card-body">
       <p class="card-text"><strong>Yudai Suzuki</strong> visited us in Nov 2025</p>
     </div>
   </div>
