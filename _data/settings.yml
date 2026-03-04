@@ -1,7 +1,7 @@
 menu:
 - {name: 'People', url: '/people'}
 - {name: 'Publications', url: '/publications'}
-- {name: 'Seminars', url: 'https://www.youtube.com/playlist?list=PL3z0iE0Y9E06T93AZBhWuL21oWS0DK6F9'}
+- {name: 'Seminars', url: '/seminars'}
 - {name: 'CV', url: '/cv/'}
 - {name: 'in.Q gallery', url: '/gallery'}
 #- {name: ' ', url: '/contact'}
