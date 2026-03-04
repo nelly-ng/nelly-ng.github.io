@@ -1,9 +1,9 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'People', url: '/people'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Seminars', url: 'https://www.youtube.com/playlist?list=PL3z0iE0Y9E06T93AZBhWuL21oWS0DK6F9'}
 - {name: 'CV', url: '/cv/'}
 - {name: 'in.Q gallery', url: '/gallery'}
-#- {name: 'courses', url: '/courses'}
 #- {name: ' ', url: '/contact'}
 
 people:
