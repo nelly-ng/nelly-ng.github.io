@@ -27,7 +27,8 @@ index:
   - {name: 'Thermal operations from informational equilibrium', url: 'https://arxiv.org/abs/2507.16637', year: 2025}
   - {name: 'Extensive entanglement between coupled Tomonaga-Luttinger liquids in and out of equilibrium', url: 'https://arxiv.org/abs/2508.20533', year: 2025}
   - {name: 'Double-Bracket Algorithmic Cooling', url: 'https://arxiv.org/abs/2510.00302', year: 2025}
-
+  - {name: 'Gaussian time-translation covariant operations: structure, implementation, and thermodynamics', url: 'https://arxiv.org/abs/2601.02471', year: 2026}
+  - {name: 'Manipulating heterogeneous quantum resources over a network ', url: 'https://arxiv.org/abs/2602.17803', year: 2026}
   
 
 
