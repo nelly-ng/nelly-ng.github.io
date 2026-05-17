@@ -1,6 +1,14 @@
 <div class="col">
   <div class="card h-100 shadow-sm">
     <div class="card-body">
+      <p class="card-text"><strong>Francesco Buscemi</strong> visited us in May 2026</p>
+    </div>
+  </div>
+</div>
+
+<div class="col">
+  <div class="card h-100 shadow-sm">
+    <div class="card-body">
       <p class="card-text"><strong>Jörg Schmiedmayer</strong> visited us in Mar 2026</p>
     </div>
   </div>
