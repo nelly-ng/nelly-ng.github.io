@@ -3,6 +3,8 @@ layout: page
 title: "Visitors"
 ---
 
+**Francesco Buscemi** visited us in May 2026
+
 **Jörg Schmiedmayer** visited us in Mar 2026
 
 **Haruki Emori** visited us in Feb 2026
