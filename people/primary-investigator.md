@@ -3,8 +3,8 @@ layout: page
 title: "Primary Investigator"
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="/assets/img/nelly.jpg" alt="desc" style="width: 450px; height: auto; flex-shrink: 0;">
+<div class="media-with-text">
+  <img src="/assets/img/nelly.jpg" alt="desc" class="media-with-text__image media-with-text__image--portrait">
   <div>
     <p>
 I started out as an undergrad in Physics at Nanyang Technological University, Singapore. When I first learned quantum information theory, I was fascinated by its implications for real-world problems such as cryptography and communication. This led me to work with Prof. Stephanie Wehner for several years at the Centre for Quantum Technologies, Singapore. Later on, I did my PhD with Stephanie at the QuTech institute, Delft University of Technology, the Netherlands.
@@ -24,7 +24,6 @@ Email: nelly.hy.ng@gmail.com
     </p>
   </div>
 </div>
-
 
 
 

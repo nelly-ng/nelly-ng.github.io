@@ -3,8 +3,8 @@ layout: post
 title: "Thermal operations are really quite unique :)"
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="/assets/img/hierarchy.jpg" alt="desc" style="width: 250px; height: auto; flex-shrink: 0;">
+<div class="media-with-text">
+  <img src="/assets/img/hierarchy.jpg" alt="desc" class="media-with-text__image media-with-text__image--compact">
   <div>
     <p>
 In 2021, while Zooming with Henrik on writing the review on catalysis, he said to me, "you know, I recently discovered 
@@ -27,4 +27,5 @@ In 2021, while Zooming with Henrik on writing the review on catalysis, he said t
     <p>
         Find out more about the specifics of our results <a href="https://arxiv.org/abs/2507.16637" target="_blank" rel="noopener noreferrer">here</a>! 
    </p>
-  
+  </div>
+</div>

@@ -3,8 +3,8 @@ layout: post
 title: "We can now reconstruct the common phase in quantum field simulators!"
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="/assets/img/cp.jpg" alt="desc" style="width: 250px; height: auto; flex-shrink: 0;">
+<div class="media-with-text">
+  <img src="/assets/img/cp.jpg" alt="desc" class="media-with-text__image media-with-text__image--compact">
   <div>
     <p>
 Wave is one of the most fundamental phenomena in nature. Any wave has a “phase” which tells you where in the cycle the wave is at any given moment - think of a child’s swing or the rhythm of a dancer. At normal temperatures, the atoms inside a gas behave like particles, moving really fast and colliding with each other. But something wonderful happens if you cool the gas down to extremely low temperatures; they behave collectively as a wave. Such ultracold gases are said to behave as a “superfluid”. 
@@ -25,5 +25,4 @@ Written by: Taufiq Murtadho
     </p>
   </div>
 </div>
-
 

@@ -37,3 +37,50 @@ body h3 {
 body p {
   font-size: $paragraphFontSize;
 }
+
+/* Responsive image-and-text content */
+.media-with-text {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.media-with-text__image {
+  max-width: 100%;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.media-with-text__image--portrait {
+  width: 450px;
+}
+
+.media-with-text__image--compact {
+  width: 250px;
+}
+
+.post-sequence-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.post-sequence-image--lead {
+  width: 600px;
+  margin: 0 0 1.5rem;
+}
+
+.post-sequence-image--closing {
+  width: 350px;
+  margin: 1.5rem 0 0;
+}
+
+@media (max-width: 767.98px) {
+  .media-with-text {
+    flex-direction: column;
+  }
+
+  .media-with-text__image {
+    width: 100%;
+  }
+}

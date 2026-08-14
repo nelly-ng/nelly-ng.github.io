@@ -7,20 +7,22 @@ menu:
 #- {name: ' ', url: '/contact'}
 
 people:
-- {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor, CQT Fellow', url: 'primary-investigator'}
+- {name: 'Nelly Ng Huei Ying, Nanyang Assistant Professor, CQT Fellow', url: 'primary-investigator', scholar: 'https://scholar.google.com/citations?user=ah2xN3IAAAAJ&hl=en'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Marek Gluza, Research Fellow, Recipient of Presidential Postdoctoral Fellowship 2022-2024', url: 'research-fellow'}
-- {name: 'Ray Ganardi, Research Fellow', url: 'research-fellow'}
-- {name: 'Jakub Czartowski, Research Fellow', url: 'research-fellow'}
-- {name: 'Jeongrak Son, PhD Student, SINGA scholarship holder', url: 'graduate-student'}
-- {name: 'Taufiq Murtadho, PhD Student, Provost scholarship holder', url: 'graduate-student'}
+- {name: 'Png Wen Han, Postdoctoral Researcher', url: 'research-fellow'}
+- {name: 'Taufiq Murtadho, PhD Student, Provost scholarship holder', url: 'graduate-student', scholar: 'https://scholar.google.com/citations?user=5iKg1WUAAAAJ&hl=en'}
 - {name: 'Kaiwei Qiu, PhD Student, NPGS scholarship holder', url: 'graduate-student'}
 - {name: 'Zi Yao Lim, PhD Student (co-supervised by Dr. Koh Teck Seng)', url: 'graduate-student'}
 - {name: 'Rebecca Chung, Masters Student', url: 'graduate-student'}
-- {name: 'Tiang Bi Hong, Project Officer', url: 'project-officer'}
+- {name: 'Tiang Bi Hong, Project Officer', url: 'project-officer', scholar: 'https://scholar.google.com/citations?user=aMtg-UYAAAAJ&hl=en'}
 - {name: 'Joseph Goo, Project Officer', url: 'project-officer'}
-- {name: 'Khanh Uyen Giang (Kay), Project Officer', url: 'project-officer'}
 - {name: 'Xiaoyue Li (Samantha), Project Officer', url: 'project-officer'}
+- {name: 'Marek Gluza, Alumni (research fellow), now in a tenure-track position at NTU and leading Nanyang Quantum Solutions', url: 'alumni', scholar: 'https://scholar.google.com/citations?user=cEWWxqkAAAAJ&hl=en'}
+- {name: "Jakub Czartowski, Alumni (research fellow), now postdoctoral researcher in Felix Binder's group at Trinity College Dublin", url: 'alumni', scholar: 'https://scholar.google.com/citations?user=9blrlEIAAAAJ&hl=en'}
+- {name: 'Khanh Uyen Giang (Kay), Alumni (project officer), now PhD student at TU Darmstadt', url: 'alumni', scholar: 'https://scholar.google.com/citations?user=a1uCp5QAAAAJ&hl=en'}
+- {name: 'Jeongrak Son, Alumni, with in.Q until April 2026; postdoc at FU Berlin from May 2026', url: 'alumni'}
+- {name: "Ray Ganardi, Alumni (research fellow), now in Ludovico Lami's group in Pisa", url: 'alumni'}
+- {name: 'Kim Si Hyung, Alumni (final-year project student), now PhD student at CQT with Alex Ling', url: 'alumni'}
 - {name: 'Seok Hyung Lie, Alumni (research fellow), now Asst. Prof. at UNIST, South Korea', title: 'Alumni', url: 'alumni'}
 - {name: 'Yu Cai, Alumni (research fellow), now Quantum Communications Specialist at HSBC', url: 'alumni'}
 - {name: 'Maria Quadeer, Alumni (research fellow), now research fellow at OIST, Japan', title: 'Alumni', url: 'alumni'}

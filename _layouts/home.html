@@ -15,9 +15,10 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 7 %}
       <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
+    <p><a href="{{ '/updates/' | relative_url }}">See all updates</a></p>
   </div>
 </div>
 
